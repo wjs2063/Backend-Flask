@@ -1,8 +1,8 @@
 
 
 ### ubuntu 에서
-sudo apt update
-sudo apt install mysql-server
+sudo apt update  
+sudo apt install mysql-server  
 
 mysql_secure_installation
 
