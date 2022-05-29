@@ -35,3 +35,5 @@ API 에 DATABASE 연결
  id  
  user_id
  follow_user_id
+
+
